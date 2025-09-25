@@ -63,6 +63,9 @@ An interactive Tableau project visualizing 80,000+ UFO sightings across the Unit
 
 <h2>Dashboard</h2>
 
+![UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard/blob/main/images/UFO%20Dashboard1.png)
+![UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard/blob/main/images/UFO%20Dashboard2.png)
+![UFO Sightings Dashboard](https://github.com/a-paija/UFO-SightingsDashboard/blob/main/images/UFO%20Dashboard3.png)
 
 <h2>Languages and Utilities Used</h2>
 
