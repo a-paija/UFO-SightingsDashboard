@@ -45,7 +45,7 @@ An interactive Tableau project visualizing 80,000+ UFO sightings across the Unit
 <h2>How to Use</h2>
 
 1. Download the .twbx Tableau workbook from this repository or click the Tableau Public link to view online.
-   - https://public.tableau.com/app/profile/ajin.paija/viz/UnitedStatesUFOdata/Dashboard1
+   - [Tableau Public WebLink](https://public.tableau.com/app/profile/ajin.paija/viz/UnitedStatesUFOdata/Dashboard1)
 
 3. Open it in Tableau Desktop or Tableau Public.
 
