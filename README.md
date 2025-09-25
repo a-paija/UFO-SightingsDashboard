@@ -4,8 +4,6 @@
 
 <h2>Description</h2>
 An interactive Tableau project visualizing 80,000+ UFO sightings across the United States (1949–2014). The dashboard transforms raw data into a clear, engaging story of when, where, and how UFOs were reported, allowing users to uncover geographic and temporal patterns through interactive exploration.
-<br />
-
 <h2>How to Use</h2>
 
 1. Download the .twbx Tableau workbook from this repository or click the Tableau Public link to view online.
