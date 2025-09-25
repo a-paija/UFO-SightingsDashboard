@@ -68,3 +68,6 @@ An interactive Tableau project visualizing 80,000+ UFO sightings across the Unit
 <h2>Languages and Utilities Used</h2>
 
 - <b>Tableau Public </b>
+
+<h2>Data Source</h2>
+- [National UFO Reporting Center](https://www.kaggle.com/datasets/NUFORC/ufo-sightings/data)
